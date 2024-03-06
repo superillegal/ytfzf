@@ -1,6 +1,6 @@
 # NOTICE
 
- actively maintained, it should still work for the foreseeable future---
+ maintained, it should still work for the foreseeable future---
 
 <p align="center">
     <a> <img src=.assets/logo.png></a>
