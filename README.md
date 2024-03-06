@@ -1,6 +1,6 @@
 # NOTICE
 
-is no longer actively maintained, it should still work for the foreseeable future
+ longer actively maintained, it should still work for the foreseeable future
 
 ---
 
